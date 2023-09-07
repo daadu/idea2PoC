@@ -1,7 +1,7 @@
 ---
 name: Idea Submission
 about: Submit your idea for the cohort
-title: "[Idea Submission] ??"
+title: "[Idea Submission] <title-of-my-idea>"
 labels: idea-submission
 assignees: daadu
 
