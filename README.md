@@ -3,7 +3,7 @@ If you have an idea for a HW product that could solve some real problem, and wan
 
 This document layouts the roadmap, of how to achieve it in just 4 weeks! More than that you get you do it with others in the cohort.
 
-> Submit your idea [here](https://github.com/daadu/idea2PoC/issues/new/choose), to do it with the cohort.
+> Submit your idea [here](https://github.com/daadu/idea2PoC/discussions/1), to do it with the cohort.
 
 ## Prerequisite
 - An idea that you want to see in your hand
